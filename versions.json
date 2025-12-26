@@ -2,5 +2,9 @@
   {
     "script": "wasabi_pausemenu",
     "version": "2.0.0"
+  },
+  {
+    "script": "wasabi_billing",
+    "version": "1.0.0"
   }
 ]
