@@ -1,10 +1,119 @@
 [
   {
+    "script": "wasabi_bridge",
+    "version": "1.6.5"
+  },
+  
+  {
+    "script": "wasabi_ambulance",
+    "version": "1.14.2"
+  },
+  {
+    "script": "wasabi_police",
+    "version": "1.10.8"
+  },
+  {
+    "script": "wasabi_crutch",
+    "version": "1.1.5"
+  },
+  {
+    "script": "wasabi_evidence",
+    "version": "1.1.5"
+  },
+  {
+    "script": "wasabi_adminmenu",
+    "version": "1.2.2"
+  },
+  {
+    "script": "wasabi_carlock",
+    "version": "2.7.8"
+  },
+  {
+    "script": "wasabi_multijob",
+    "version": "1.3.4"
+  },
+  {
+    "script": "wasabi_mdt",
+    "version": "1.0.9"
+  },
+  {
+    "script": "wasabi_gps",
+    "version": "1.0.5"
+  },
+
+
+  
+
+
+  {
+    "script": "wasabi_uikit",
+    "version": "1.0.5"
+  },
+  {
+    "script": "wasabi_notify",
+    "version": "1.0.6"
+  },
+  {
+    "script": "wasabi_loadingscreen",
+    "version": "1.0.3"
+  },
+  {
+    "script": "wasabi_vipshop",
+    "version": "1.0.7"
+  },
+  {
+    "script": "wasabi_pausemenu",
+    "version": "1.0.1"
+  },
+  {
+    "script": "wasabi_multichar",
+    "version": "1.1.9"
+  },
+  {
+    "script": "wasabi_spawn",
+    "version": "1.0.1"
+  },
+  {
     "script": "wasabi_pausemenu",
     "version": "2.0.0"
   },
   {
+    "script": "wasabi_banking",
+    "version": "1.1.9"
+  },
+  {
     "script": "wasabi_billing",
     "version": "1.0.0"
-  }
+  },
+
+  {
+    "script": "wasab_gangwars",
+    "version": "1.0.3"
+  },
+  {
+    "script": "wasabi_fleecarobberies",
+    "version": "1.0.6"
+  },
+  {
+    "script": "wasabi_yachtheist",
+    "version": "1.0.3"
+  },
+  {
+    "script": "wasabi_vangelicorobbery",
+    "version": "1.0.5"
+  },
+  {
+    "script": "wasabi_paletorobbery",
+    "version": "1.0.2"
+  },
+  {
+    "script": "wasabi_ammunationrobbery",
+    "version": "1.0.5"
+  },
+  {
+    "script": "wasabi_pacificrobbery",
+    "version": "1.0.5"
+  },
+
+  
 ]
