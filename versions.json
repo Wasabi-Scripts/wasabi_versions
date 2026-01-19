@@ -67,7 +67,7 @@
   },
   {
     "script": "wasabi_multichar",
-    "version": "1.1.9"
+    "version": "1.2.0"
   },
   {
     "script": "wasabi_spawn",
@@ -87,7 +87,7 @@
   },
 
   {
-    "script": "wasab_gangwars",
+    "script": "wasabi_gangwars",
     "version": "1.0.3"
   },
   {
