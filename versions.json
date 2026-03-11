@@ -9,6 +9,10 @@
     "version": "1.14.2"
   },
   {
+    "script": "wasabi_ambulance_v2",
+    "version": "2.0.0"
+  },
+  {
     "script": "wasabi_police",
     "version": "1.10.8"
   },
