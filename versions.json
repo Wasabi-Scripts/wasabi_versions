@@ -83,7 +83,7 @@
   },
   {
     "script": "wasabi_banking",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   {
     "script": "wasabi_billing",
