@@ -42,7 +42,7 @@
   },
   {
     "script": "wasabi_mdt_v2",
-    "version": "2.0.0"
+    "version": "2.0.1"
   },
   {
     "script": "wasabi_gps",
