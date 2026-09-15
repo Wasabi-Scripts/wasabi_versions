@@ -3,6 +3,11 @@
     "script": "wasabi_bridge",
     "version": "1.6.9"
   },
+
+  {
+    "script": "wasabi_inventory",
+    "version": "0.1.0"
+  },
   
   {
     "script": "wasabi_ambulance",
