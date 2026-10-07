@@ -43,7 +43,7 @@
   },
   {
     "script": "wasabi_multijob",
-    "version": "2.0.1"
+    "version": "2.0.2"
   },
   {
     "script": "wasabi_mdt",
